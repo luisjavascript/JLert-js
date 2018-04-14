@@ -1,7 +1,11 @@
+#main_content_wrap {
+    width: 100% !important;
+    margin: 0px !important;
+    max-width: 100% !important;
+}
 .container-page {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
-    border: 1px solid black;
     height: 90vh;
     position: relative;
     display: flex;
