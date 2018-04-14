@@ -1,0 +1,135 @@
+.container-page {
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 90vh;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+header {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #d0d0d0;
+}
+.container-panels {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    margin: 20px;
+}
+.main {
+    width: 65%;
+    height: 100%;
+}
+.aside {
+    width: 30%;
+    height: 100%;
+}
+.text-div {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+span {
+    font-size: 12px;
+    color: #a0a0a0;
+}
+.input {
+    width: 60%;
+    padding: 5px;
+    border-radius: 3px;
+    outline: none;
+    height: 20px;
+    border: none;
+    border: 1px solid #d0d0d0;
+}
+.choice-simple-icon {
+    width: 60%;
+    height: 30px;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+input[type="radio"] {
+    cursor: pointer;
+}
+.choice-color {
+    width: 100%;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+.input-color {
+    margin-bottom: 10px;
+    width: 50%;
+    margin-right: 20px;
+}
+.div-input-color {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.choice-position {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;height: 70px;
+    margin: 10px;
+}
+select {
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    border-radius: 3px;
+    outline: none;
+    border: none;
+    border: 1px solid #d0d0d0;
+    height: 40px;
+}
+.div-options {
+    width: 90%;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+}
+.div-time {
+    width: 90%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.div-time > input {
+    width: 20%;
+}
+.div-icon-name {
+    width: 90%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+.input-js {
+    width: 60px;
+    padding: 5px;
+    border-radius: 3px;
+    outline: none;
+    height: 20px;
+    border: none;
+    border: 1px solid #d0d0d0;
+    color: black;
+    margin-bottom: 7px;
+}
