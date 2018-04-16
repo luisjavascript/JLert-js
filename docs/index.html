@@ -18,12 +18,12 @@
         <div class="container-panels">
             <div class="main">
                 <div class="text-div">
-                    <input type="text" class="input" placeholder="Texto de jlert">
+                    <input id="txt_mensaje" type="text" class="input" placeholder="Texto de jlert">
                 </div>
                 <div class="choice-simple-icon">
                     <form action="">
-                        <input type="radio" name="typeJlert" value="simple"> Simple
-                        <input type="radio" name="typeJlert" value="icon"> Icon
+                        <input id="radio_simple" type="radio" name="typeJlert" value="simple"> Simple
+                        <input id="radio_icon" type="radio" name="typeJlert" value="icon"> Icon
                     </form>
                 </div>
                 <div class="choice-color">
@@ -92,29 +92,12 @@
     <button id="btnNuevo">nuevo mensaje</button>
 
     <script>
-        let nuevo = document.querySelector('#btnNuevo');
-        let contador = 1;
-        nuevo.addEventListener('click', function (e) {
-            jlert.createAlert('icon', 'Usuario creado exitosamente' + contador, {
-                bg: 'info',
-                base: 'info',
-                round: false,
-                color: 'whitesmoke',
-                positionIcon: 'right',
-                icon: 'info',
-                time: 3000,
-                closeButton: false,
-                position: 'top-right',
-                firstElement: false,
-                animation: { init: 'gum', end: 'gum', timeInit: 1000, timeEnd: 1000 },
-                progressBar: false
-            }).openJlert();
-            contador++;
-        });
+        
     </script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+"
         crossorigin="anonymous"></script>
     <script src="jlert.js"></script>
+    <script src="index.js"></script>
 </body>
 
 </html>
