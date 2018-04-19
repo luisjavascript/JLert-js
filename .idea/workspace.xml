@@ -2,9 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb1f4cd8-4e3a-4b12-80e7-319d0624ccc0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/css/colorpicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/css/layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_hex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_hsb_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_hsb_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_hsb_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_indic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_rgb_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_rgb_g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_rgb_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_select.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/colorpicker_submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_hex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_hsb_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_hsb_h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_hsb_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_indic.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_rgb_b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_rgb_g.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_rgb_r.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/custom_submit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/select2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/images/slider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/js/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/js/eye.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/js/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/jqery-color-picker/js/utils.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +62,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+            <state relative-caret-position="272">
+              <caret line="16" column="129" lean-forward="true" selection-start-line="16" selection-start-column="129" selection-end-line="16" selection-end-column="129" />
             </state>
           </provider>
         </entry>
@@ -120,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524177967680</updated>
-      <workItem from="1524177972925" duration="3413000" />
+      <workItem from="1524177972925" duration="4023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3413000" />
+    <option name="totallyTimeSpent" value="4023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -173,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
+        <state relative-caret-position="272">
+          <caret line="16" column="129" lean-forward="true" selection-start-line="16" selection-start-column="129" selection-end-line="16" selection-end-column="129" />
         </state>
       </provider>
     </entry>
